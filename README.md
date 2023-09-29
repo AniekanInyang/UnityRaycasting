@@ -7,7 +7,7 @@ This serves as a demo project for the article, [How to Raycast in Unity](https:/
 ### Prerequisites
 1. Have UnityHub and Unity Editor 2020.3.36f1 version installed.
 
-### Getting started
+### To run the project
 1. Clone the project to your local machine.
 ```
   git clone https://github.com/AniekanInyang/UnityRaycasting.git
