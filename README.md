@@ -11,7 +11,7 @@ This serves as a demo project for the article, [How to Raycast in Unity](https:/
 1. Clone the project to your local machine.
 ```
   git clone https://github.com/AniekanInyang/UnityRaycasting.git
-  cd policy-as-code-demo
+  cd UnityRaycasting
 ```
 2. Open Unity Hub and add the project from your local directory to Unity Hub.
 3. Open the project from Unity Hub in the Unity Editor.
